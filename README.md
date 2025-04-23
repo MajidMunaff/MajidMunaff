@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning on sharpening my skills around github
+- 🔭 I’m currently working on mini-projects on front end development
+- 🤔 I’m looking for help with imporving as a developer
+
+- you would be sure to find small and easily doabel projects on my github
+
+- ⚡ Fun fact: you can make contribution as well!!!!
 <!--
 **MajidMunaff/MajidMunaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
